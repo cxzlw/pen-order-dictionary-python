@@ -8,6 +8,9 @@ packages = [{include = "pen_order_dictionary_python"}]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+sanic = "^22.12.0"
+ujson = "^5.7.0"
+sanic-ext = "^22.12.0"
 
 
 [build-system]
